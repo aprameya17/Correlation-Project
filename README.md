@@ -3,7 +3,7 @@
 # Overview
 
 - In this project, I have found correlations between variables in the dataset. This helped me in being able to find what factors majorly affect the gross earnings made by a movie.
-- I have also performed EDA on the gross earnings variable and gathered a few insights.
+- I have also performed EDA on the gross earnings variable and gathered a few more insights.
 
 ## What is Correlation ? : 
 - Correlation evaluates the direction as well as strength of a relationship between continuous variables. 
