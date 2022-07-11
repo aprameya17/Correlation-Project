@@ -2,7 +2,7 @@
 
 # Overview
 
-- In this project, I have found Correlations between some variables in the dataset. By doing this I have been able to find what factors majorly affect the gross earnings made by a movie.
+- In this project, I have found Correlations between variables in the dataset. This helped me in being able to find what factors majorly affect the gross earnings made by a movie.
 - I have also performed EDA on the gross earnings variable and gathered a few insights.
 
 ## What is Correlation ? : 
